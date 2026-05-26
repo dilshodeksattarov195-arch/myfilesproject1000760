@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterfrocess",
+        "uuid": 5105680,
+        "checksum": "2f2ik"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
